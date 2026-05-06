@@ -113,6 +113,11 @@ This dashboard solves that by providing a **centralized, visual analysis system*
 
 ---
 
+### 🔹 8. Dashboard Page 🖼️
+<img width="1087" height="610" alt="image" src="https://github.com/user-attachments/assets/1df679b0-3f5c-47ca-9f24-9309d809fce0" />
+
+
+---
 ## 📈 Data Processing Workflow
 
 ```text
