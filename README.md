@@ -1,4 +1,4 @@
-# 🎬 Prime Video Analytics Dashboard (Power BI)
+# 🎬 Amazon Prime Video Analytics Dashboard (Power BI)
 
 > Turning raw streaming data into actionable insights 📊
 
